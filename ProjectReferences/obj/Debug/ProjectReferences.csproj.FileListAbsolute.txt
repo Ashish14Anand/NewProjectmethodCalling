@@ -1,0 +1,10 @@
+D:\Ravish\ProjectReferences\ProjectReferences\bin\Debug\ProjectReferences.exe.config
+D:\Ravish\ProjectReferences\ProjectReferences\bin\Debug\ProjectReferences.exe
+D:\Ravish\ProjectReferences\ProjectReferences\bin\Debug\ProjectReferences.pdb
+D:\Ravish\ProjectReferences\ProjectReferences\bin\Debug\Math.dll
+D:\Ravish\ProjectReferences\ProjectReferences\bin\Debug\Math.pdb
+D:\Ravish\ProjectReferences\ProjectReferences\obj\Debug\ProjectReferences.csproj.AssemblyReference.cache
+D:\Ravish\ProjectReferences\ProjectReferences\obj\Debug\ProjectReferences.csproj.CoreCompileInputs.cache
+D:\Ravish\ProjectReferences\ProjectReferences\obj\Debug\ProjectReferences.csproj.CopyComplete
+D:\Ravish\ProjectReferences\ProjectReferences\obj\Debug\ProjectReferences.exe
+D:\Ravish\ProjectReferences\ProjectReferences\obj\Debug\ProjectReferences.pdb
